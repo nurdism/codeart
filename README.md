@@ -1,4 +1,7 @@
 # codeart
+Turns your code into pixels!
+
+![Preview](https://i.imgur.com/3z5Rzau.png)
 
 ## Project setup
 ```
@@ -19,6 +22,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
