@@ -1,0 +1,35 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "remote.extensionKind": {
+      "ms-azuretools.vscode-docker": "ui"
+    },
+    "remote.containers.defaultExtensions": [
+      "octref.vetur",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "apollographql.vscode-apollo",
+      "ms-azuretools.vscode-docker",
+      "psioniq.psi-header",
+      "gruntfuggly.todo-tree",
+      "swyphcosmo.spellchecker",
+      "eamodio.gitlens",
+      "ms-vscode-remote.vscode-remote-extensionpack",
+      "ms-vscode-remote.remote-containers"
+    ],
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+      "javascript",
+      "typescript",
+    ],
+    "todo-tree.filtering.excludeGlobs": [
+      "**/node_modules/**",
+    ]
+  }
+  
